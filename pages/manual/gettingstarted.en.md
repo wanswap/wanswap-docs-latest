@@ -1,4 +1,4 @@
-## Getting started
+# Getting started
 
 Before you start, you'll need one of the three wallets WanSwap supports:
 

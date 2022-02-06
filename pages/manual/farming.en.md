@@ -1,3 +1,7 @@
+# Yield Farming
+
+In this article, we will explain how Yield Farming works on WanSwap and ZooKeeper.
+
 ## Yield Farming on WanSwap
 
 In the next section in the top bar, ‘Farm’, you can stake the liquidity tokens from the previous section into WanSwap’s yield farming platform.

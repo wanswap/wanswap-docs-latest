@@ -1,4 +1,4 @@
-## Vote
+# Vote
 
 The vote tab will take you to the voting page. Here you can vote on proposals, create proposals or see the results of previous proposals. More information on how this works you can find in the Governance section.
 

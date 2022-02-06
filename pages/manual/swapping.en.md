@@ -1,4 +1,4 @@
-## Swapping tokens
+# Swapping tokens
 
 Token swap lets you exchange one token with another. Here you do not need to place orders and have an order taker to trade with you. Rather, you trade with the liquidity pool. Therefore, you can get your tokens almost instantly thanks to Wanchain’s fast speed and low fees.
 

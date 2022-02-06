@@ -1,3 +1,5 @@
+# Proposals
+
 Proposals consist of a 3 to 5 days voting period where the community will submit votes. There are two proposal categories: those initiated by the team, and those initiated by the community.
 
 ## Team Proposals

@@ -1,4 +1,4 @@
-## Hive
+# Hive
 
 On the Hive tab, you can stake WASP tokens to earn WAN rewards. These rewards are provided by the WanSwap validator and storeman nodes.
 
